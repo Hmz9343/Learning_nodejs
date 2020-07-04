@@ -1,0 +1,14 @@
+library/node_modules   
+playground/node_modules  
+sap-web-ide/node_modules    
+task-manager/node_modules  
+web-server/node_modules
+web-server/bower_components
+first_app/node_modules     
+nodeauth/node_modules  
+notes-app/node_modules                         
+routes/node_modules      
+simple_server/node_modules  
+test_express/node_modules  
+weather-app/node_modules  
+whatabyte-portal/node_modules

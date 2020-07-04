@@ -1,0 +1,19 @@
+{
+    "name": "notes-app",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "no"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "chalk": "^3.0.0",
+        "validator": "^12.2.0",
+        "yargs": "^15.1.0"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.2"
+    }
+}
